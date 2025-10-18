@@ -26,8 +26,8 @@ export default function Hero({ className }: { className?: string }) {
     { img: ironward, alt: "Ironward", link: "https://www.ironward.com/" },
     {
       img: nogravitygames,
-      alt: "No Gravity Games",
-      link: "https://nogravitygames.com/",
+      alt: "Goran Ramljak",
+      link: "http://goramljak.com/",
     },
   ];
   // const swiperRef: any = useRef();
